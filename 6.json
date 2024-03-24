@@ -1,0 +1,79 @@
+{
+    "name": "Unfound Yakuza #6",
+    "description": "A generative collection of 10k Akitas, an off-world species sent to reclaim what's rightfully theirs.",
+    "image": "https://raw.githubusercontent.com/UnfoundLabs/nft-img/main/6.png",
+    "image_thumbnail": "https://raw.githubusercontent.com/UnfoundLabs/nft-img/main/6.png",
+    "external_url": "https://unfoundlabs.com",
+    "background_color": "FF10F0",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Sky"
+        },
+        {
+            "trait_type": "Item",
+            "value": "None"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Graylien"
+        },
+        {
+            "trait_type": "Eye",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Burgundy Type 3"
+        },
+        {
+            "trait_type": "Suit",
+            "value": "Purple Ninja"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "None"
+        },
+        {
+            "trait_type": "Global Rank",
+            "value": 42,
+            "max_value": 50
+        },
+        {
+            "trait_type": "Background Rarity Score",
+            "value": 25.0,
+            "display_type": "number",
+            "max_value": 50
+        },
+        {
+            "trait_type": "Item Rarity Score",
+            "value": 1.52,
+            "display_type": "number",
+            "max_value": 50
+        },
+        {
+            "trait_type": "Body Rarity Score",
+            "value": 5.56,
+            "display_type": "number",
+            "max_value": 50
+        },
+        {
+            "trait_type": "Hair Rarity Score",
+            "value": 12.5,
+            "display_type": "number",
+            "max_value": 50
+        },
+        {
+            "trait_type": "Suit Rarity Score",
+            "value": 25.0,
+            "display_type": "number",
+            "max_value": 50
+        },
+        {
+            "trait_type": "Headgear Rarity Score",
+            "value": 1.32,
+            "display_type": "number",
+            "max_value": 50
+        }
+    ]
+}

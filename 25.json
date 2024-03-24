@@ -1,0 +1,99 @@
+{
+    "name": "Unfound Yakuza #25",
+    "description": "A generative collection of 10k Akitas, an off-world species sent to reclaim what's rightfully theirs.",
+    "image": "https://raw.githubusercontent.com/UnfoundLabs/nft-img/main/25.png",
+    "image_thumbnail": "https://raw.githubusercontent.com/UnfoundLabs/nft-img/main/25.png",
+    "external_url": "https://unfoundlabs.com",
+    "background_color": "FF10F0",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Green"
+        },
+        {
+            "trait_type": "Item",
+            "value": "Sunfire Katana"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Yakuza"
+        },
+        {
+            "trait_type": "Eye",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Pink Type 2"
+        },
+        {
+            "trait_type": "Suit",
+            "value": "Green Samurai"
+        },
+        {
+            "trait_type": "Headgear",
+            "value": "None"
+        },
+        {
+            "trait_type": "Gangster",
+            "value": 95,
+            "display_type": "boost_number"
+        },
+        {
+            "trait_type": "Power",
+            "value": 98,
+            "display_type": "boost_number"
+        },
+        {
+            "trait_type": "Red Eyes",
+            "value": 90,
+            "display_type": "boost_number"
+        },
+        {
+            "trait_type": "Serpent",
+            "value": 68,
+            "display_type": "boost_number"
+        },
+        {
+            "trait_type": "Global Rank",
+            "value": 13,
+            "max_value": 50
+        },
+        {
+            "trait_type": "Background Rarity Score",
+            "value": 25.0,
+            "display_type": "number",
+            "max_value": 50
+        },
+        {
+            "trait_type": "Item Rarity Score",
+            "value": 16.67,
+            "display_type": "number",
+            "max_value": 50
+        },
+        {
+            "trait_type": "Body Rarity Score",
+            "value": 12.5,
+            "display_type": "number",
+            "max_value": 50
+        },
+        {
+            "trait_type": "Hair Rarity Score",
+            "value": 16.67,
+            "display_type": "number",
+            "max_value": 50
+        },
+        {
+            "trait_type": "Suit Rarity Score",
+            "value": 25.0,
+            "display_type": "number",
+            "max_value": 50
+        },
+        {
+            "trait_type": "Headgear Rarity Score",
+            "value": 1.32,
+            "display_type": "number",
+            "max_value": 50
+        }
+    ]
+}
