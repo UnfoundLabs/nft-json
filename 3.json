@@ -8,82 +8,77 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Castle"
+            "value": "Fern Gully"
         },
         {
             "trait_type": "Item",
-            "value": "Gold Slayer"
+            "value": "None"
         },
         {
             "trait_type": "Body",
-            "value": "Human Barcode"
+            "value": "Skin Tone 4"
         },
         {
             "trait_type": "Eye",
-            "value": "Blue"
+            "value": "Demon"
         },
         {
             "trait_type": "Hair",
-            "value": "Silver Type 4"
+            "value": "Burgundy Type 3"
         },
         {
             "trait_type": "Suit",
-            "value": "Gold CyberPunk"
+            "value": "Aqua Collar"
         },
         {
             "trait_type": "Headgear",
             "value": "None"
         },
         {
-            "trait_type": "Gangster",
-            "value": 80,
-            "display_type": "boost_number"
-        },
-        {
-            "trait_type": "Power",
-            "value": 95,
-            "display_type": "boost_number"
+            "trait_type": "Demon Eyes",
+            "value": "Summoned",
+            "display_type": "text"
         },
         {
             "trait_type": "Global Rank",
-            "value": 14,
-            "max_value": 50
+            "value": 12,
+            "max_value": 20
         },
         {
             "trait_type": "Background Rarity Score",
-            "value": 12.5,
+            "value": 10.0,
             "display_type": "number",
-            "max_value": 50
+            "max_value": 20
         },
         {
             "trait_type": "Item Rarity Score",
-            "value": 50.0,
+            "value": 1.33,
             "display_type": "number",
-            "max_value": 50
+            "max_value": 20
         },
         {
             "trait_type": "Body Rarity Score",
-            "value": 12.5,
+            "value": 5.0,
             "display_type": "number",
-            "max_value": 50
+            "max_value": 20
         },
         {
             "trait_type": "Hair Rarity Score",
-            "value": 12.5,
+            "value": 20.0,
             "display_type": "number",
-            "max_value": 50
+            "max_value": 20
         },
         {
             "trait_type": "Suit Rarity Score",
-            "value": 25.0,
+            "value": 20.0,
             "display_type": "number",
-            "max_value": 50
+            "max_value": 20
         },
         {
             "trait_type": "Headgear Rarity Score",
-            "value": 1.32,
+            "value": 1.43,
             "display_type": "number",
-            "max_value": 50
+            "max_value": 20
         }
     ]
 }
